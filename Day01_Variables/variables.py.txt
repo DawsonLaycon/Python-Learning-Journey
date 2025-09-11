@@ -1,0 +1,13 @@
+name = "Olamilekan"
+age = 18
+height = 5.9
+complexion = "Dark"
+is_student = True
+
+print("My name is", name)
+print("I am", age, "years old")
+print("My height is", height)
+print("Complexion:", complexion)
+print("Am I a student?", is_student)
+
+print(f"My name is {name}, I am {age} years old, my height is {height}, and my complexion is {complexion}. Student status: {is_student}")
